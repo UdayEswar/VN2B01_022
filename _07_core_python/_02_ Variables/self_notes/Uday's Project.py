@@ -26,7 +26,7 @@ print (id(_x),type(_x),_x)
 _X=44+55+66
 print (_X)
 
-Uday,Vasu,Vasudev=44,55.5,'Vassunitha'
+Uday,Vasu,Vasudev=44,55.5,"Vassunitha"
 print (Uday,Vasu,Vasudev)
 print (id(Vasudev),id(Uday),id(Vasu))
 print (type(Uday),type(Vasu),type(Vasudev))
@@ -37,9 +37,52 @@ d=c+5
 print (d)
 
 
-'''Here Deleting B Value'''
-B=143
-print (B)
-del (B)
+'''Operators'''
 
-print (B)
+a=45
+b=5
+c=a+b
+print(c)
+
+print (5+5)
+
+f=20
+g=25
+if f==g:
+    print ("f==b is True")
+else:
+    print ("false")
+
+v=20
+b=30
+if v<b:
+    print ("True")
+else :
+    print ("false")
+
+
+
+t=88
+p=99
+print ((t+p),(t-p),(t*p),(t/p),)
+print (id(t+p),id(t-p),id(t*p),id(t/p))
+print (id(t),id(p))
+
+a=20
+b=30
+if a>b:
+    print ("Uday")
+elif a<b:
+    print ("Vasudev")
+else:
+    print ("swetha")
+
+
+a=1
+b=1
+if a>b:
+    print ("Vasu")
+elif a<b:
+    print ("Uday")
+else :
+    print ("Simha")
