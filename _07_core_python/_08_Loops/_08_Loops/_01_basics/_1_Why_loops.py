@@ -40,8 +40,8 @@ emp_ids = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]  # List
           # [1*1,2*2,3*3,4*4....]
           # [1, 4, 9, 16, 25...]
 emp_ids = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)  # Tuple
-e_data = {'eid':100,'name':'MadhuN'} # Dtc
-nums = {1,2,3,4,5} # Set
+e_data = {'eid':100,'name':'MadhuN'}
+nums = {1,2,3,4,5}
 
-print(nums)
+print(emp_ids)
 
