@@ -1,5 +1,5 @@
 #
-for i in range(65,70):
+for i in range(65):
     k=i
     for j in range(65,i+1):
         print(chr(k),end=" ")
