@@ -1,0 +1,26 @@
+Q.What is a list and what is a list method?
+A.In Python, a list is a collection of pieces of data. A list is surrounded by square brackets [ ] with each item separated by a comma ( , ), and can contain anywhere from zero to infinity items (or however many your computer will allow). Strings, numbers, booleans, even other lists can be items in a list. Lists are ordered and mutable (changeable), meaning each item is assigned to a specific index and can be sorted, and has the ability to be altered. Once you have a list, you are able to manipulate that list using what’s known as a ‘method.’ Like string methods, to use a list method, you simply write the list followed by .[method](). For example, to run the append() method on the list [‘pepperoni’, ‘sausage’, ‘mushroom’], you would just write [‘pepperoni’, ‘sausage’, ‘mushroom’].append(‘onion’); if that list were set to a variable, you would do that variable.append(‘onion’). As you see with the append() example, some methods accept what are known as ‘arguments,’ which go in the parenthesis and further define what the method will do. The Python language has a lot of built-in methods, like append(), that allow you to easily alter lists.
+
+1.append() and extend()
+	The append() method allows you to add another item to the end of your list. The method takes one required argument, which is the item you wish to add to your list.
+
+	The extend() method is similar to append() in that it allows you to add onto your list; however, the extend() method allows you to add all of the items from another iterable (list, tuple, set, etc.) to the end of your list as separate items instead of one item. The method takes one required argument, the iterable.
+
+2.pop() and remove()
+	The pop() method allows you to remove an element from your list at a specified index value. The method can take one optional argument, the integer value of the index you wish to remove — by default, pop() will remove the last item in the list, as the default value is -1.
+	Like the pop() method, the remove() method allows you to remove an item from your list. The remove() method, though, removes the first occurrence of a specified value in a list. The method takes one required argument, the item you wish to remove.
+
+3.sort() and reverse()
+	The sort() method sorts a list by certain criteria. The method can take two optional arguments. The first argument is setting either reverse=True or reverse=False. By default, this argument is set to reverse=False, which will result in alphabetical order if the list consists of only strings, or ascending order if the list consists of only numbers. The second argument allows you to set a key= to a function that you can use to specify how exactly you want your list sorted if it’s more complex than the default ordering that the sort() method does. This could be a built-in Python function, a function you defined elsewhere in your program, or an in-line lambda function that you write.
+
+4.count()
+	The count() method returns the number of occurrences of a specified item in a list. The method takes one required argument, which is the item you wish to find the count of. This method can be useful if you wish to find out what items appear more than once in a list.
+
+5.index()
+	The index() method returns the index of the first occurrence of the specified item. The method takes one required argument, which is the item whose index you wish to find. If the item does not exist in the list, you will get an error.
+
+6.insert()
+	The insert() method inserts a specified item into a list at a specified index. The method takes two required arguments — the integer index you wish to insert the value at and the item you’d like to insert.
+
+7.copy()
+	The copy() method simply returns a copy of your list. The method takes no arguments.
