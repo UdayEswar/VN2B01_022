@@ -51,7 +51,7 @@ if 10>2:
     print("Line1")
     print("Line2")
     print("Line3")
-    print("Line4")0
+    print("Line4")
     print("Line5")
     print("Line6")
     print("Line7")
@@ -79,5 +79,6 @@ if 10 < 20 and 5 > 1:
 if 10+20 and 31-30:
     print("Logically executed")
 
-
+uday = (1,2,3,4)
+print(uday[2])
 

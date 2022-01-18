@@ -5,8 +5,8 @@ emp_details = {'eid': 100,
                'sal': 12500}
 
 print("------All Items-------")
-for key, val in emp_details.items():
-    print(key, val)
+for p,l in emp_details.items():
+    print(p,l)
 
 print("------All Keys-------")
 for key in emp_details.keys():

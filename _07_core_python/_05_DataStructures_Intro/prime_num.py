@@ -1,10 +1,11 @@
-number=int(input("Enter a number" ))
-if number%2==0 or number%3==0 or number%5==0 or number%7==0 :
-    if number%2==0 and number%3==0 :
-        print("it is a not a prime number")
-    elif number%5==0 and number%7==0 :
-        print("it is not a prime number")
-    else :
-        print(("it is a prime number"))
-else :
-    print("it is a prime number")
+'''num = int(input("Enter The Number :"))
+if num % 2==0:
+      print("This Is Even Num")
+else:
+    print("This Is odd Num")'''
+
+for i in range(1,100):
+    if i % 2==1:
+        print("This Is Even Num :",i)
+
+
