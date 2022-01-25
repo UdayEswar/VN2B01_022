@@ -56,7 +56,7 @@ def Sum(f,d,e):
 Sum(7,9,10)
 '''
 
-'''
+
 # Key Words
 def person(name,age,Num):
     print(name)
@@ -90,7 +90,7 @@ def sum(a,*b):
     #print(a)
     #print(b)
 sum(5,10,10,20)
-'''
+
 def uday(*a):
     b = 0
     for i in a:
@@ -102,11 +102,39 @@ uday(1,2,3,4,5)
 
 def uday(kk,ll,gg):
 
-class Uday:
-    def vasu(self,chg,jj ):
-        self.chg = chg
 
+    def uday(Name, **Data):
+        print(Name)
+        print(Data)
+        for u,d in Data.items():
+            print(u,':',d)
+    uday('Uday',Ph=9491143753,Village="daravaram")
 
+x = 30
+
+def local():
+    x = 20
+    print("Local :",x)
+local()
+
+print("Global :",x)
+
+x = 50
+def local():
+    global x
+    x = 90
+    print("Local :",x)
+local()
+
+print("Outside :",x)
+
+x = 25
+def local():
+    x = 10
+    print("Local :",x)
+    globals()['x']= 35
+local()
+print("OurSide :",x)
 
 
 

@@ -113,7 +113,7 @@ class Student:
 
     # 2. BEHAVIOR
     def get_sinfo(self):
-        print("Student details are ", self.r_no, self.name, self.marks)
+        print("Student details are ", self.r_no )
 
-madhu = Student(23, 'Madhu Nettem', 65)
+madhu = Student('Madhu Nettem',"sd","s")
 madhu.get_sinfo()

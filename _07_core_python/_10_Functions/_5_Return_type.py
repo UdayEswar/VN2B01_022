@@ -28,7 +28,7 @@ Here sum function is taking 2 responsibilities
 # Without return types
 def sum(n1, n2):
     result = n1 + n2
-    print("Addition : ", result)
+    print("Additionvv : ", result)
 
 sum(100, 200)       # returns None
 print("Function call  :", sum(100, 200)) # returns None
