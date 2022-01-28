@@ -15,12 +15,12 @@ print("Length of string : ", len(str1))
 print("-------2. Using algorithm i.e, Without functions-------")
 
     # 1. STATE
-str1 = '123456789'
+str1 = 'hello world'
 
     # 2. BEHAVIOR
 le = 0
-for i in str1:
-    le = le + 1
+for char in str1:
+    le += 1
 print("Length of string : ", le)
 
 print("-------2. With functions-------")
@@ -29,9 +29,9 @@ print("-------2. With functions-------")
 str1 = 'hello world'
 
     # 2. BEHAVIOR
-def find_length(str2):
+def find_length(in_str=None):
     le = 0
-    for char in str2:
+    for char in in_str:
         le += 1
     return le
 
@@ -40,31 +40,16 @@ str_len = find_length(str1)                     # 2. multiple places    x = 10 p
 print("Length of string : ", str_len)
 
 # 3. print responsibility is taken by function only
-
-uday="Vasudev"
 def find_length(in_str):
     le = 0
     for char in in_str:
         le += 1
-    print("Length of stringmm : ", le)
-find_length(uday)
+    print("Length of string : ", le)
+find_length(str1)
 
 print("Value of x : ", 10)
 x = 10
 print("Value of x : ", x)
-
-
-def uday()
-
-
-
-
-
-
-
-
-
-
 
 
 

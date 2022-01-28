@@ -1,4 +1,4 @@
-'''class uday:
+class uday:
     def vasudev(self):
         print("Yes This Is Uday")
     def Chinthalli(self):
@@ -16,9 +16,9 @@ add = uday()
 add.add(5,6)
 add.add(9,9)
 
-Using 'Class __inti__' Is A Constructor. in Constructor their is a self it is a default.
+'''Using 'Class __inti__' Is A Constructor. in Constructor their is a self it is a default.
 __init__ Method is a initialize a variables
-
+'''
 class mobile:
     uday = "Vasudev"
     vasu = "Under Vasudev"
@@ -62,7 +62,7 @@ rider = Bike_Rider('Shilpa',8309964594,'Tvs_Jupiter',20)
 rider.Rider_Details()
 KM = int(input("Enter Your KM :"))
 rider.charg_pr_KM(KM)
-'''
+
 print("________Using For Loop And Keyworded Variable Length Agrument_______")
 
 class Bike_Rider:
@@ -76,7 +76,7 @@ class Bike_Rider:
         print("Bike Owner :", Bike_Rider.Rider)
         for j,k in Data.items():
             print(j,":",k)
-'''
+
     def Rider_Details(self):
         print("Rider Details :",self.R_Name)   #,self.R_Num,self.R_Bike,self.R_Chrg)
     def charg_pr_KM(self,KM):               # 10 to 50 = 10         50 to 70KM = 20
@@ -101,8 +101,8 @@ rider = Bike_Rider('Shilpa',8309964594,'Tvs_Jupiter',20)
 rider.Rider_Details()
 KM = int(input("Enter Your KM :"))
 rider.charg_pr_KM(KM)
-'''
-print("_____________Inheritance______________")
+
++print("_____________Inheritance______________")
 
 class A:
     def Uday(self):
