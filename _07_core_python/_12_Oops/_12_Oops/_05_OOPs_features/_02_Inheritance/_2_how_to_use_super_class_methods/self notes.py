@@ -1,3 +1,5 @@
+print("-------This Is inheritance--------")
+'''
 # single inh
 
 print("++++++single inh++++++")
@@ -83,6 +85,49 @@ class B(A):
 obj = B()          # Because of init We are Getting this function out put
 obj.vasu()
 obj.uday()
+'''
+class A:
+    def __init__(self):
+        print("This is Just __Init__ Of A")
+    def Uday_B (self):           # Same Fun Name
+        print("This Is Uday_A")
+    def Vasu_B(self):           # Same Fun Name
+        print("This is Vasu_A")
+
+class B:
+    def __Uday__(self):
+        print("This Is __init__ Of B")
+    def Uday_A(self):           # Same Fun Name
+        print("This is Uday_B")
+    def Vasu_B(self):           # Same Fun Name
+        print("This Is Vasu_B")
+
+class C(A,B):
+    def __init__(self):
+
+        #super().__Uday__()
+
+        #super().__init__()      # Method Resolution Order (MRO) => (A,B) So A Is left
+        print("This is __init__ Of C(A,B)")
+    def Uday_E(self):
+        print("This is Uday_C(A,B)")
+    def Vasu_F(self):
+        print("This is Vasu_C(A,B)")
+
+        super().Uday_A()        # It Uses IN Methods
+
+obj = C()
+
+
+#obj.Uday_A()
+#obj.Vasu_B()
+#obj.Vasu_F()
+
+
+
+
+
+
 
 
 

@@ -1,7 +1,7 @@
 class FeedbackForm:
 
-    def __init__(self):
-        pass
+   # def __init__(self):
+    #    pass
 
     def feedback(self, rating=10, comments=None):   # method overloading (function overloading)
         print("Feedback is :", rating, ", ", comments)

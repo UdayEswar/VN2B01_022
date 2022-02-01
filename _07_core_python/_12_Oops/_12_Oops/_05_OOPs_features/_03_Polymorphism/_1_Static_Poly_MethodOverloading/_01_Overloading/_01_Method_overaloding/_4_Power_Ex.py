@@ -2,7 +2,7 @@
 Created on 13-Jun-2021
 @author: madhu
 '''
-'''Below fucntion can be called in 2 ways
+'''Below function can be called in 2 ways
  1. By passing one argument only
  1. By passing two argument only
 '''

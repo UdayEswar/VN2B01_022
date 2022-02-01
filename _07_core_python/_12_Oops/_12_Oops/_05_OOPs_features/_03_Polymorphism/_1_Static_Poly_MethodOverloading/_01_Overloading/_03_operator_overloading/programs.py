@@ -74,7 +74,8 @@ class Employee: # class Employee(object)
         self.sal = sal
 
 madhu = Employee(10,'MadhuN',10000)
-print(madhu)  # ==> madhu.__str__() # It will give only address of variable
+print(madhu)
+madhu.__str__() # It will give only address of variable
 
 class Employee(object):
 
