@@ -18,8 +18,8 @@ try:
     print("Division :", x / y)   # ZeroDivisionError
     print("Hello world")
     print("---------------------------------")
-except ValueError as ve:
-    print("** Value Error : ==> ", ve)
+except ValueError as pp:
+    print("** Value Error : ==> ", pp)
 except IndexError as ie:
     print("** Index Error : ==> ", ie)
 except ZeroDivisionError as zde:

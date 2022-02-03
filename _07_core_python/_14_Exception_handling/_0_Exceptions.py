@@ -23,5 +23,4 @@ BaseException
       +-- SystemError
       +-- TypeError
       +-- ValueError
-
-           '''
+'''

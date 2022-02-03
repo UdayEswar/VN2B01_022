@@ -47,7 +47,7 @@ Step 3:  Datatype     : if only student marks were given : [100,20,45,67,89,43,2
 
 Step 4:  State :
          Behavior:
-'''
+#'''
 # State  --> Variables
 student_info = {12345: ['MadhuN', '10th', 90, 'ATP'],
                 43232: ['KiranG', '10th', 85, 'CHR'],
