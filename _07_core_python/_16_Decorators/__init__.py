@@ -7,7 +7,7 @@ def reverseWordSentence(Sentence):
     # List Comprehension Technique 
     newWords = [word[::-1] for word in words]
 
-    # Joining the new list of words 
+     # Joining the new list of words
     # to for a new Sentence 
     newSentence = " ".join(newWords)
 
