@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Student_Details</title>
+</head>
+<body bgcolor="gray">
+{% block content %}
+{% for i in student%}
+
+<h4>Student Name :</h4>{{ i.name}}<br>
+<h4>Student ID :</h4>{{i.id}}
+<h4>Student Branch :</h4>{{i.branch}}
+<h4>Year :</h4>{{i.year}}
+
+{% endfor %}
+
+{% endblock content%}
+
+</body>
+</html>
+
+
+
+
+
