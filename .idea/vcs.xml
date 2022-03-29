@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Experiments/ai_supermario" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Face-Mask-Detection" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Frameworks/DJango/Office_Work/django-todo" vcs="Git" />
   </component>
 </project>

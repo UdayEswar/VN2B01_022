@@ -1,46 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="778ea8d7-7345-45ed-94ff-389d936ad3af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/.idea/Aircraft-War-Python-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/gameRole.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/mainGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/resources/font/font.fnt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/resources/font/font.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/resources/image/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/resources/image/gameover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/resources/image/shoot.pack" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/resources/image/shoot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/resources/image/shoot_background.pack" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/resources/sound/bullet.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/resources/sound/bullet.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/resources/sound/enemy1_down.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/resources/sound/enemy1_down.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/resources/sound/game_music.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/resources/sound/game_music.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/resources/sound/game_over.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Aircraft-DogFight-Python/resources/sound/game_over.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/F1 Car Racing Game Python/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/F1 Car Racing Game Python/F1-Race-Road-Game/F1Race.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/F1 Car Racing Game Python/F1-Race-Road-Game/audio/car_crash.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/F1 Car Racing Game Python/F1-Race-Road-Game/audio/ignition.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/F1 Car Racing Game Python/F1-Race-Road-Game/audio/intro1.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/F1 Car Racing Game Python/F1-Race-Road-Game/audio/intro2.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/F1 Car Racing Game Python/F1-Race-Road-Game/audio/running.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/F1 Car Racing Game Python/F1-Race-Road-Game/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/F1 Car Racing Game Python/F1-Race-Road-Game/images/background_inv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/F1 Car Racing Game Python/F1-Race-Road-Game/images/car.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/F1 Car Racing Game Python/F1-Race-Road-Game/images/car_left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/F1 Car Racing Game Python/F1-Race-Road-Game/images/car_right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/F1 Car Racing Game Python/F1-Race-Road-Game/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/F1 Car Racing Game Python/F1-Race-Road-Game/images/obstacle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/F1 Car Racing Game Python/F1-Race-Road-Game/images/texture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/F1 Car Racing Game Python/F1-Race-Road-Game/textfile/high_score.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/Pytube/Pytube.py" afterDir="false" />
+    <list default="true" id="3a8dbd66-6ae4-4b2f-adc6-97823f7001aa" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Experiments/ai_supermario/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Experiments/ai_supermario/.idea/ai_supermario.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Experiments/ai_supermario/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
@@ -48,218 +9,45 @@
       <change afterPath="$PROJECT_DIR$/Experiments/ai_supermario/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Experiments/ai_supermario/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Experiments/ai_supermario/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/1/instagram/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/1/instagram/instagram/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/1/instagram/instagram/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/1/instagram/instagram/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/1/instagram/instagram/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/1/instagram/instagram/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/1/instagram/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/1/instagram/reels/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/1/instagram/reels/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/1/instagram/reels/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/1/instagram/reels/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/1/instagram/reels/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/1/instagram/reels/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/1/instagram/reels/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/1/instagram/reels/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/2/instagram/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/2/instagram/instagram/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/2/instagram/instagram/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/2/instagram/instagram/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/2/instagram/instagram/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/2/instagram/instagram/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/2/instagram/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/2/instagram/reels/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/2/instagram/reels/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/2/instagram/reels/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/2/instagram/reels/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/2/instagram/reels/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/2/instagram/reels/templates/reels/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/2/instagram/reels/templates/reels/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/2/instagram/reels/templates/reels/main2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/2/instagram/reels/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/2/instagram/reels/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/2/instagram/reels/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram old/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram old/instagram/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram old/instagram/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram old/instagram/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram old/instagram/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram old/instagram/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram old/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram old/reels/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram old/reels/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram old/reels/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram old/reels/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram old/reels/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram old/reels/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram old/reels/templates/reels/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram old/reels/templates/reels/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram old/reels/templates/reels/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram old/reels/templates/reels/main2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram old/reels/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram old/reels/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram old/reels/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram/instagram/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram/instagram/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram/instagram/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram/instagram/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram/instagram/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram/reels/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram/reels/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram/reels/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram/reels/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram/reels/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram/reels/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram/reels/templates/reels/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram/reels/templates/reels/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram/reels/templates/reels/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram/reels/templates/reels/main2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram/reels/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram/reels/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagram/reels/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagramm/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagramm/instagram/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagramm/instagram/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagramm/instagram/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagramm/instagram/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagramm/instagram/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagramm/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagramm/reels/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagramm/reels/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagramm/reels/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagramm/reels/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagramm/reels/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagramm/reels/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagramm/reels/templates/reels/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagramm/reels/templates/reels/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagramm/reels/templates/reels/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagramm/reels/templates/reels/main2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagramm/reels/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagramm/reels/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/Office_Work/instagramm/reels/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/facebook/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/facebook/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/facebook/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/facebook/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/facebook/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/fb_app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/fb_app/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/fb_app/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/fb_app/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/fb_app/migrations/0002_student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/fb_app/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/fb_app/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/fb_app/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/fb_app/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/fb_app/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/media/images/WhatsApp_Image_2021-12-02_at_1.07.48_PM.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/templates/Computer man.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/templates/Computer.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/templates/Student Details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/templates/Whatsap Background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/templates/Whatsapp Project.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/templates/cc.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/templates/workplace.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/facebook/templates/workplace2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/DJango/self_notes/templates/Whatsapp Project.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/Flask/Office work/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/Flask/Office work/service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/Flask/self_notes/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/Flask/self_notes/service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frameworks/desktop.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Selenium WebDriverBasics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/desktop.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_07_core_python/_02_ Variables/pythonProject/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Selenium Practical/Selenium Practice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VN2B01_Training.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VN2B01_Training.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vn2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DJango/instagram/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DJango/instagram/instagram/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DJango/instagram/instagram/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DJango/instagram/instagram/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DJango/instagram/instagram/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DJango/instagram/instagram/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DJango/instagram/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DJango/instagram/reels/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DJango/instagram/reels/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DJango/instagram/reels/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DJango/instagram/reels/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DJango/instagram/reels/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DJango/instagram/reels/templates/reels/base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DJango/instagram/reels/templates/reels/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DJango/instagram/reels/templates/reels/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DJango/instagram/reels/templates/reels/main2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DJango/instagram/reels/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DJango/instagram/reels/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DJango/instagram/reels/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiments/ai_supermario" beforeDir="false" afterPath="$PROJECT_DIR$/Experiments/ai_supermario" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Experiments/ai_supermario/1_sb_ppo_agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experiments/ai_supermario/1_sb_ppo_agent.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Experiments/ai_supermario/4_pong_dqn (1).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Experiments/ai_supermario/4_pong_dqn(1).ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Experiments/ai_supermario/stable_baselines/ddpg/ddpg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experiments/ai_supermario/stable_baselines/ddpg/ddpg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face-Mask-Detection/Readme_images/Screenshot 2020-06-01 at 9.48.27 PM.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/Face-Mask-Detection/Readme_images/Screenshot 2020-06-01 at 9.48.27 PM.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face-Mask-Detection/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Face-Mask-Detection/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenium WebDriverBasics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenium WebDriverBasics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Experiments/ai_supermario/1_sb_ppo_agent.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Experiments/Super Mario Game Python/requirements.txt" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
-  </component>
-  <component name="ProjectId" id="25KBN49rTy9hmoxW15VSVtmgGfI" />
+  <component name="ProjectId" id="26adyIvCoFSNzNFBmu8aQ2YXLRn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/tensorflow-1.0.0-py3-none-any.whl" />
-    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\DELL\Desktop\VN2B01_Training\Flask\Office work" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.youtube_download">
-    <configuration name="1_sb_ppo_agent (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Selenium Practice">
+    <configuration name="Selenium Practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VN2B01_Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,11 +55,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiments/ai_supermario" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium/Selenium Practical" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiments/ai_supermario/1_sb_ppo_agent.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium/Selenium Practical/Selenium Practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1_sb_ppo_agent (2)" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="Selenium WebDriverBasics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VN2B01_Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiments/ai_supermario-master" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiments/ai_supermario-master/1_sb_ppo_agent.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium/Selenium WebDriverBasics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="F1Race" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VN2B01_Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -309,74 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiments/F1 Car Racing Game Python/F1-Race-Road-Game" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Face-Mask-Detection" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiments/F1 Car Racing Game Python/F1-Race-Road-Game/F1Race.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Pytube" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="VN2B01_Training" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiments/Pytube" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiments/Pytube/Pytube.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="a2c" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="VN2B01_Training" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiments/ai_supermario/stable_baselines/a2c" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiments/ai_supermario/stable_baselines/a2c/a2c.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="youtube_download" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="VN2B01_Training" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/youtube_download.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Face-Mask-Detection/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -387,33 +112,21 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.youtube_download" />
-        <item itemvalue="Python.Pytube" />
-        <item itemvalue="Python.1_sb_ppo_agent (1)" />
-        <item itemvalue="Python.a2c" />
-        <item itemvalue="Python.F1Race" />
+        <item itemvalue="Python.Selenium Practice" />
+        <item itemvalue="Python.Selenium WebDriverBasics" />
+        <item itemvalue="Python.app" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration>C:\Users\DELL\AppData\Roaming\Subversion</configuration>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="778ea8d7-7345-45ed-94ff-389d936ad3af" name="Changes" comment="" />
-      <created>1645265854233</created>
+      <changelist id="3a8dbd66-6ae4-4b2f-adc6-97823f7001aa" name="Changes" comment="" />
+      <created>1647665885969</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1645265854233</updated>
+      <updated>1647665885969</updated>
     </task>
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/DJango/Office Work/django-todo" />
-      <path value="$PROJECT_DIR$/DJango/Office_Work/django-todo" />
-      <path value="$PROJECT_DIR$/DJango/self_notes/facebook" />
-    </ignored-roots>
   </component>
 </project>
